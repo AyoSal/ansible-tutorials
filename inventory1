@@ -1,0 +1,7 @@
+node01 ansible_host=35.183.98.233 ansible_user=ec2-user
+node02 ansible_host=35.183.0.191 ansible_user=ec2-user
+
+
+[webservers]
+node01
+node02
