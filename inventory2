@@ -1,0 +1,4 @@
+node03 ansible_host=35.183.101.116 ansible_user=ec2-user
+
+[dbservers]
+node03
